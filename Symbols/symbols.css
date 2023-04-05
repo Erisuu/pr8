@@ -1,0 +1,60 @@
+@import @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=PT+Sans+Narrow&family=Pacifico&family=Roboto+Condensed:ital,wght@1,300&display=swap');
+body{
+	background-color: rgb(166, 50, 154);
+}
+p{
+	font-size: 30px;
+	color: blue;
+}
+.ex1{
+	font-family: cursive;
+	font-weight: 600;
+}
+.ex2{
+	font-family: "Lucida Console", Courier, monospace;
+	font-style: oblique;
+}
+.ex3{
+	font-family: 'Cormorant Garamond', serif;
+}
+.ex4{
+	font-family: 'Pacifico', cursive;
+}
+.ex5{
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+.ex6{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.ex7{
+	text-decoration: underline;
+	text-decoration-style: wavy;
+	text-decoration-color: red;
+	text-underline-position: under;
+}
+.ex8{
+	text-decoration: underline;
+	text-decoration-style: dashed;
+	text-decoration-color: yellow;
+	text-underline-position: under;
+}
+.ex9{
+	text-shadow: 2px -2px 8px green;
+}
+.ex10{
+	text-shadow: 3px 3px lightblue, 6px 6px darkblue;
+	font-weight: 700;
+}
+.ex11{
+	text-shadow: 0 0 13px pink;
+}
+.ex12{
+	font-size: 2em;
+	font-weight: 600;
+	color: orange;
+	font-family: 'Pacifico', cursive;
+	text-shadow: 2px -2px lightgreen, 4px -4px 10px lightgrey;
+}
+.ex13{
+	font: 68px "Lucida Console", Courier, monospace;
+}

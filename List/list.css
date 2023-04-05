@@ -1,0 +1,26 @@
+p{
+	font-size: 50px;
+	color: blue;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/5e/Flag_of_Ukraine.jpg);
+	background-size: contain;
+	border-image: linear;
+	border-image-outset: 30px;
+	border: 48px;
+	width: 50%;
+}
+ul, ol, dl{
+	font-size: 20px;
+	color: darkgreen;
+	margin-left: 90px;
+}
+ul li{
+	padding-left: 8px;
+}
+ul li::marker{
+	color: darkblue;
+	font-size: 1,5em;
+}
+ul{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJmR8LF39ptV7-8XwO-3fw1VV0iU0cXa46-A&usqp=CAU);
+	list-style-position: inside;
+}

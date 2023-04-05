@@ -1,0 +1,44 @@
+body{
+	background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg);
+	background-size: 2000px;
+	background-repeat: no-repeat;
+	background-position: 80% 80%;
+	background-attachment: fixed;
+}
+
+p{
+	font-size: 1in;
+	color: green;
+	background-image: url(https://p4.wallpaperbetter.com/wallpaper/362/276/920/nature-4k-pc-full-hd-wallpaper-preview.jpg);
+	background-size: cover;
+}
+
+.bgimage{
+	width: 400px;
+	height: 400px;
+	background-color: cyan;
+	background-image: url(https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823__340.jpg);
+	background-size: cover;
+	border-radius: 45% 45%;
+	margin-left: 18px;
+	border: ridge 8px pink;
+}
+
+.img2{
+	width: 50%;
+	margin-top: 10px;
+	border-radius: 30%;
+	box-shadow: 15px -15px 70px darksalmon;
+	border: solid 3px red;
+	margin: auto;
+	display: block;
+}
+
+.bggif{
+	width: 150px;
+	height: 150px;
+	background-image: url(https://media.tenor.com/Gz7UrwvdQcAAAAAd/nature-%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B0.gif), linear-gradient(rgba(77, 196, 219, 1), rgba(14, 158, 89, 1));
+	background-repeat: no-repeat;
+	background-position: 70% 20%;
+
+}

@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+body{
+	background-color: lightyellow;
+}
+p{
+	font-size: 40px;
+	border: solid 20 px;
+	width: 48%;
+	text-align: center;
+	border-image: linear-gradient(orange, yellow) 30;
+	color: blue;
+}
+table{
+	border: double 3px pinkred;
+	width: 45%;
+	border-collapse: separate;
+}
+th,td{
+	border: solid 1px pink;
+	width: 25%;
+	height: 1cm;
+	font-size: 20px;
+}
+tr:hover{
+	background-color: darkgrey;
+}
+td:hover{
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 2em;
+	background-image: url(https://thumbs.gfycat.com/FavorableWearyAplomadofalcon-size_restricted.gif);
+}
+tr:nth-child(odd){
+	background-color: lightblue;
+}
+tr:nth-child(even){
+	background-color: lightcyan;
+}
+caption{
+	font-size: 50px;
+	font-family: 'Roboto Mono', monospace;
+	color: darkgray;
+}

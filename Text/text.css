@@ -1,0 +1,26 @@
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+p {
+	text-align: justify;
+	word-spacing: 5px;
+	line-height: 24px;
+	text-indent: 24px;
+}
+h2 {
+	text-align: center;
+}
+.img {
+	margin: 20px;
+}
+figure {
+	border: solid 2px grey;
+	width: 270px;
+	text-align: center;
+	margin: auto;
+}
+figure img {
+	margin: 10px;
+}
